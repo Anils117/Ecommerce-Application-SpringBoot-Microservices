@@ -13,3 +13,4 @@ You can watch the tutorial on Youtube here - https://www.youtube.com/watch?v=mPP
 1. Run `mvn clean verify -DskipTests` by going inside each folder to build the applications.
 2. After that run `mvn spring-boot:run` by going inside each folder to start the applications.
 
+![Screenshot_(39)-transformed](https://github.com/Anils117/Ecommerce-Application-SpringBoot-Microservices/assets/83568202/9161bed4-4876-4e25-931f-b3074582e917)
